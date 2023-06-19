@@ -8,6 +8,13 @@ I'm Marko, a passionate Full Stack Engineer from Serbia. Welcome to my GitHub pr
 
 Feel free to reach out to me through LinkedIn. I'm always excited to connect with fellow developers.
 
+## 🎓 Education
+
+- Bachelor's Degree in Computer Science from Faculty of Technical Sciences, University of Priština.
+- September 2018 – May 2023
+- Kosovska Mitrovica, Serbia
+- GPA: 9.04 out of 10.0
+
 ## 🔧 Skills
 
 Here are some of the technologies and tools I work with:
