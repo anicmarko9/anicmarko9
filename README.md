@@ -36,9 +36,14 @@ I'm currently focusing on:
 
 Here are some of my notable projects:
 
-- [Weather App](https://github.com/anicmarko9/zadatak)
+- [JWT Authentication](https://github.com/anicmarko9/zadatak)
 
-Weather App consists of concurrent external API calls, JWT user authentication, DB migrations, and many more features.
+Advanced JWT user authentication, SQL migrations, async data fetching, Dockerized image and docker-compose file using best practices, k8s services.
+
+
+- [EU Tours](https://github.com/anicmarko9/eu-tours)
+
+Website for booking tours around EU. It's built with Next.js using TypeSafe APIs, as well as Next Auth for user authentication. I am currently working on this project.
 
 Feel free to explore them and provide any feedback or suggestions.
 
