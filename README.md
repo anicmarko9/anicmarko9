@@ -20,7 +20,7 @@ Feel free to reach out to me through LinkedIn. I'm always excited to connect wit
 Here are some of the technologies and tools I work with:
 
 - Programming languages: TypeScript, JavaScript.
-- Frameworks and libraries: React.JS, Next.JS, TailwindCSS, Node.JS, Express.JS.
+- Frameworks and libraries: React.JS, Next.JS, TailwindCSS, Node.JS, Express.JS, Nest.JS.
 - Databases: MongoDB, PostgreSQL, MySQL, SQL, SQLite.
 - Tools: Docker, Kubernetes.
 
