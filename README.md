@@ -20,17 +20,23 @@ Feel free to reach out to me through LinkedIn. I'm always excited to connect wit
 Here are some of the technologies and tools I work with:
 
 - Programming languages: TypeScript, JavaScript.
-- Frameworks and libraries: React.JS, Next.JS, TailwindCSS, Node.JS, Express.JS, Nest.JS.
-- Databases: MongoDB, PostgreSQL, MySQL, SQL, SQLite.
-- Tools: Docker, Kubernetes.
+- Frontend: ReactJS, NextJS, TailwindCSS.
+- Backend:
+  - RESTful: NodeJS, ExpressJS, NestJS.
+  - TypeSafe: tRPC & Zod, GraphQL.
+- Databases: PostgreSQL, MySQL, SQL, SQLite, MongoDB.
+- ORM: Prisma, Sequelize, TypeORM, Mongoose.
+- Data Structures: Doubly Linked List, Queue, Stack, Hash Table, Graph, Binary Tree.
+- Algorithms: MergeSort, QuickSort, InsertionSort (for DLL), RadixSort, Breadth-First Search, Depth-First Search (pre, post, in).
+- Infrastructure: Docker, Kubernetes.
 
 ## 🌱 Currently Learning
 
 I'm currently focusing on:
 
-- Open Source contributing.
-- Advanced CSS animations.
-- Backend security for user authentication and database.
+- Open Source Contribution.
+- Data Structures & Algorithms
+- Backend services with NestJS.
 
 ## 🗂️ Projects
 
@@ -44,6 +50,20 @@ Advanced JWT user authentication, SQL migrations, async data fetching, Dockerize
 - [EU Tours](https://github.com/anicmarko9/eu-tours)
 
 Website for booking tours around EU. It's built with Next.js using TypeSafe APIs, as well as Next Auth for user authentication. I am currently working on this project.
+
+- [Nest Auth](https://github.com/anicmarko9/nest-auth)
+
+Repository for experimenting backend controllers and services using NestJS.
+
+- [DS & A](https://github.com/anicmarko9/algorithms)
+
+Testing playground for data structures and algorithms.
+
+- [Landing Page](https://github.com/anicmarko9/responsive-front)
+
+Simple responsive landing page with the hamburger menu animation. Please ignore out of pocket margins.
+
+---
 
 Feel free to explore them and provide any feedback or suggestions.
 
