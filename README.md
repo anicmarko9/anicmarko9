@@ -26,6 +26,7 @@ Here are some of the technologies and tools I work with:
   - TypeSafe: tRPC & Zod, GraphQL.
 - Databases: PostgreSQL, MySQL, SQL, SQLite, MongoDB.
 - ORM: Prisma, Sequelize, TypeORM, Mongoose.
+- Jest: Unit testing & End-to-end testing.
 - Data Structures: Doubly Linked List, Queue, Stack, Hash Table, Graph, Binary Tree.
 - Algorithms: MergeSort, QuickSort, InsertionSort (for DLL), RadixSort, Breadth-First Search, Depth-First Search (pre, post, in).
 - Infrastructure: Docker, Kubernetes.
