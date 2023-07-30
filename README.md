@@ -36,8 +36,10 @@ Here are some of the technologies and tools I work with:
 I'm currently focusing on:
 
 - Open Source Contribution.
-- Data Structures & Algorithms
+- Go lang API.
 - Backend services with NestJS.
+- Writing unit & e2e tests.
+- Composing 3rd party SaaS's with Docker containers, and connecting them to my backend.
 
 ## 🗂️ Projects
 
