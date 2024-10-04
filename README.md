@@ -27,7 +27,7 @@ I am Marko, a **Full Stack Developer** from Serbia with a strong focus on **Back
 - **DevOps**: Microsoft Azure, Kubernetes, Docker, Apache, nginx
 - **Backend**: Node.js (Nest.js, Express.js)
 - **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
-- **Databases**: PostgreSQL, MySQL, MongoDB, others
+- **Databases**: PostgreSQL, Redis, MySQL, MongoDB, others
 - **ORMs**: TypeORM, Sequelize, Prisma, Mongoose
 - **Data Structures & Algorithms**: Proficient understanding
 - **QA Testing**: Jest.js (unit & e2e tests)
