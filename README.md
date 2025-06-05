@@ -13,19 +13,19 @@ I am Marko, a **Full Stack Developer** from Serbia with a strong focus on **Back
 
 ### 🌟 Soft Skills
 
-- Leadership
-- Project Management
-- Communication
-- Teamwork
-- Problem Solving
-- Critical Thinking
-- Adaptability
+- **Leadership**: Led backend and DevOps architecture across large projects.
+- **Project Management**: Contributed to key planning and delivery decisions.
+- **Communication**: Explained technical concepts clearly to diverse teams.
+- **Teamwork**: Aligned efforts across frontend, QA, and design to achieve smooth project delivery.
+- **Problem Solving**: Diagnosed and fixed critical production issues under pressure.
+- **Critical Thinking**: Quickly untangled difficult challenges, resulting in stable, efficient features.
+- **Adaptability**: Thrived in unfamiliar environments by learning fast and delivering effective solutions.
 
 ### ⚙️ Technical Skills
 
-- **Languages**: TypeScript, JavaScript
+- **Languages**: TypeScript, JavaScript, Go
 - **DevOps**: Microsoft Azure, Kubernetes, Docker, Apache, nginx
-- **Backend**: Node.js (Nest.js, Express.js)
+- **Backend**: Node.js (Nest.js, Express.js), Go Lang
 - **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
 - **Databases**: PostgreSQL, Redis, MySQL, MongoDB, others
 - **ORMs**: TypeORM, Sequelize, Prisma, Mongoose
@@ -35,11 +35,15 @@ I am Marko, a **Full Stack Developer** from Serbia with a strong focus on **Back
 ## 🌱 Currently Learning
 
 - Open Source Contribution
-- The Go Programming Language
+- Go Programming Language
 - Horizontal Scaling in Kubernetes with Microservices
-- UX/UI Design with Figma
+- Modern Frontend development practices
 
 ## 🗂️ Projects
+
+- [Go Communications](https://github.com/anicmarko9/communications)
+
+A lightweight backend service for handling "Contact Us" form submissions from static web apps. This service receives lead data via HTTP, then sends notifications to a pre-registered client via email and SMS using Azure Communication Services. Designed to keep your frontend static and secure, while offloading sensitive operations (like email/SMS sending and credential management) to a robust backend.
 
 - [Nest.js Authentication & Authorization](https://github.com/anicmarko9/nest-guard)
 
